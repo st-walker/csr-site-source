@@ -1,4 +1,4 @@
 baseURL = 'https://st-walker.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'en-GB'
+title = 'Hello world!  This is my website on Coherent Synchrotron Radiation'
 theme = "hello-friend-ng"
